@@ -22,7 +22,7 @@ This project combines NLP and machine learning to analyze financial news sentime
 
 ---
 
-## 📌 Sample Prediction Output
+## 📌 Prediction Output
 
 | Stock | Prediction  | Confidence |
 |-------|------------ |------------|
@@ -38,7 +38,7 @@ This project combines NLP and machine learning to analyze financial news sentime
 
 - `Financial_News_and_Stock_Movement_Prediction.ipynb` – Main notebook
 - `README.md` – This file
-- (Optional) `plots/` – Saved visualizations
+
 
 ---
 
