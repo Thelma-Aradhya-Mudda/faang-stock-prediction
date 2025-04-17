@@ -9,7 +9,7 @@ This project combines NLP and machine learning to analyze financial news sentime
 - 🧠 Fine-tuned BERT model on financial news headlines (Phase 1)
 - 📉 Time-series model trained on 5 years of stock data (Phase 2)
 - ✅ FAANG coverage: AAPL, GOOGL, AMZN, NFLX, META
-- 📊 Custom visualizations of trends and predictions
+- 📊 Custom visualizations of trends and predictions 
 - 🔮 Forecasts for April 17, 2025
 
 ---
