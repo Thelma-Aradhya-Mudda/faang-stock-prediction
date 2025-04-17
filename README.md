@@ -24,13 +24,13 @@ This project combines NLP and machine learning to analyze financial news sentime
 
 ## 📌 Sample Prediction Output
 
-| Stock | Prediction | Confidence |
-|-------|------------|------------|
-| AAPL  | 🔼 Up       | 78%        |
-| AMZN  | 🔽 Down     | 64%        |
-| GOOGL | 🔼 Up       | 70%        |
-| NFLX  | 🔽 Down     | 58%        |
-| META  | 🔼 Up       | 82%        |
+| Stock | Prediction  | Confidence |
+|-------|------------ |------------|
+| AAPL  | 🔽 Down     | 74%        |
+| AMZN  | 🔽 Down     | 61%        |
+| GOOGL | 🔽 DOWN     | 51%        |
+| NFLX  | 🔽 Down     | 61%        |
+| META  | 🔽 Down     | 71%        |
 
 ---
 
